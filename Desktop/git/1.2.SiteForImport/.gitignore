@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 tmp/
 index.html_old
 *_backup
 Thumbs.db
+=======
+*.db
+tmp/
+index.html_old
+*_backup
+>>>>>>> parent of 4a87387... Revert "add .gitignore"
 *.DS_Store
